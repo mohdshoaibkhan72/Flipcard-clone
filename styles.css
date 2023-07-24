@@ -1,0 +1,247 @@
+
+
+.head{
+    height: 60px;
+    width: 100%;
+    background-color:  #047BD5;
+    align-items: center;
+    display: flex;
+  
+}
+
+.header1{
+    
+    background-color: #1F74BA;
+    justify-content: center;
+    margin-left: 200px;
+    position: sticky;
+}
+.heaer2{
+    width:380px;
+    height: 43px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
+    margin-left: 60px;
+   
+
+}
+.header2:hover{
+    border: 2px solid #F8E831;
+}
+.input{
+    width: 350px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: lighter;
+    color: black;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    border: none;
+    
+}
+
+.button{
+    width: 60px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: bold;
+    color:#1F74BA;
+    border-radius: 2px;
+    border: none;
+    justify-content:center;
+background-color: white;
+margin-left: 60px;
+}
+.button:hover{
+    border: 2px solid #F8E831;}
+
+.seller{
+    color: white;
+    font-weight: bold;
+    margin-left: 60px;
+}
+.card{
+  color:white;
+  font-size: 25px;
+  margin-left: 60px;
+}
+
+/*navbar */
+.navbar2{
+    display:flex ;
+  padding: 5px;
+height: 170px;
+width:  100%;
+justify-items: center;
+justify-content: space-evenly;
+}
+.prname{
+
+    padding-left: 30px;
+  font-weight: 600;
+ align-items: center;
+}
+/*navbar*/
+
+.navbar3{
+    height: 300px;
+    width: 100%;
+  
+}
+
+.img-navbar3{
+    height:  300px;
+    width: 100%;
+}
+.button1{
+    width: 50px;
+    height: 200px;
+    position: absolute;
+     top:300px;
+     left:5px;
+     color:black;
+     font-weight: bolder;
+     background-color: white;
+}
+.button2{
+    width: 50px;
+    height: 200px;
+    position: absolute;
+     top:300px;
+     right: 5px;
+     color:black;
+     font-weight: bolder;
+     background-color: white;
+}
+.Box{
+    height: 400px;
+    display: flex;
+    margin-top: 5px;
+   
+
+}
+.box1{
+     height: 360px;
+    width: 20%;
+   
+
+   
+}
+.box2{
+    height: 360px;
+   align-items: center;
+   justify-content: center;
+   position: relative;
+    padding-left: 60px;
+    width: 20%;
+}
+.box2r{
+    color: black;
+    font-weight: bolder;
+    padding-left: 60px;
+}
+.box3{
+    height: 360px;
+    padding-left: 60px;
+    width: 20%;
+}
+.box4{
+    height: 360px;
+    padding-left: 60px;
+    width: 20%;
+}
+.box5{
+    height: 360px;
+    width: 20%;
+    border: 2px white;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    padding-left: 60px;
+    
+}
+.boxmsg{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.buy1Button{
+    height: 40px;
+    width: 70%;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+.buy2Button{
+    height: 40px;
+    width: 70%;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+.buy3Button{
+    height: 40px;
+    width: 70%;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+.buy4Button{
+    height: 40px;
+    width: 70%;
+    position: absolute;
+    bottom: 20px;
+    right: 50px;
+}
+
+/*foter*/
+.foter-1{
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    background-color: gray;
+    align-items: center;
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+   
+}
+.foter-1:hover{
+    background-color: #d8ab14;
+    transition: 2s;
+    border-radius: 5px;
+    border-color: black;
+}
+.foter-2{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #222f3d;
+  color: white;
+  padding-top: 60px;
+  font-size: 20px;
+  height: 300px;
+
+}
+ .foter-p
+ {
+    font-size: 25px;
+ }
+ .panel-3{
+    height: 100px;
+    width: 100%;
+    background-color: #222f3d;
+    
+    justify-content:space-evenly;
+ align-items:  center;
+ float: right;
+ }
+ .Alogo{
+    height: 90px;
+    width: 100px;
+   margin-left: 800px;
+    margin-top: 5px;
+    
+ }
